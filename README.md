@@ -89,6 +89,6 @@ Tüm tablolar, sorgu sonuçları, trigger testleri ve ilişkisel diyagram ekran 
 ## 👨‍💻 Geliştirici Bilgisi
 
 * **Geliştirici:** Sefa Yusuf Kütük  
-* **GitHub:** [@sefayusufkutuk](https://github.com/sefayusufkutuk)  
+* **GitHub:** https://github.com/SeFaYuSuFk  
 * **Eğitmen:** Salih Tekin  
 * **Kurum:** TNC Group (Software Persona 2026 Staj Programı)  
